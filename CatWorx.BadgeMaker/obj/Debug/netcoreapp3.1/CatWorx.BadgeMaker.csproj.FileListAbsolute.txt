@@ -1,0 +1,12 @@
+/Users/ben/Documents/Bootcamp/Assignments/csharp-dotnet-101/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.deps.json
+/Users/ben/Documents/Bootcamp/Assignments/csharp-dotnet-101/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.runtimeconfig.json
+/Users/ben/Documents/Bootcamp/Assignments/csharp-dotnet-101/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.runtimeconfig.dev.json
+/Users/ben/Documents/Bootcamp/Assignments/csharp-dotnet-101/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.dll
+/Users/ben/Documents/Bootcamp/Assignments/csharp-dotnet-101/CatWorx.BadgeMaker/bin/Debug/netcoreapp3.1/CatWorx.BadgeMaker.pdb
+/Users/ben/Documents/Bootcamp/Assignments/csharp-dotnet-101/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.csprojAssemblyReference.cache
+/Users/ben/Documents/Bootcamp/Assignments/csharp-dotnet-101/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+/Users/ben/Documents/Bootcamp/Assignments/csharp-dotnet-101/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.AssemblyInfo.cs
+/Users/ben/Documents/Bootcamp/Assignments/csharp-dotnet-101/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
+/Users/ben/Documents/Bootcamp/Assignments/csharp-dotnet-101/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.dll
+/Users/ben/Documents/Bootcamp/Assignments/csharp-dotnet-101/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.pdb
+/Users/ben/Documents/Bootcamp/Assignments/csharp-dotnet-101/CatWorx.BadgeMaker/obj/Debug/netcoreapp3.1/CatWorx.BadgeMaker.genruntimeconfig.cache
